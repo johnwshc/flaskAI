@@ -1,0 +1,5 @@
+from analz.blogger.er_blogger import ERBlogger, BloggerPost
+
+er_content_template = """
+<h1 style="text-align: center;">&nbsp;This is a BIG Test</h1><div><br /></div><div>here is some bullshit text</div><div>more bulshit</div><div><br /></div><div>even more bullshit</div><div><br /></div><div>time for a photo</div><div><br /></div><div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeqsxaMZMBQhJLKy9xnmxKAN-kA2NqAblDbeYmI86EVRTkw4UZBAsiVPuWbKWoYT4n9ghcJPGYzDzb2izOKrzuOEYmVWmkjfLTMNAj56yuAZADRxpvVbMgl0SfEKUu7I5K3T3vWqDTUF5dCBot23BQbMC5WkDXqa2OLmIoXHv59mXGpuHROu4bvdXF/s287/jerry_garcia.jpeg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="287" data-original-width="229" height="287" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeqsxaMZMBQhJLKy9xnmxKAN-kA2NqAblDbeYmI86EVRTkw4UZBAsiVPuWbKWoYT4n9ghcJPGYzDzb2izOKrzuOEYmVWmkjfLTMNAj56yuAZADRxpvVbMgl0SfEKUu7I5K3T3vWqDTUF5dCBot23BQbMC5WkDXqa2OLmIoXHv59mXGpuHROu4bvdXF/s1600/jerry_garcia.jpeg" width="229" /></a></div><br /><div style="text-align: center;"><br /></div>
+"""

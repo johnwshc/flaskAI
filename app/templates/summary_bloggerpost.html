@@ -1,0 +1,34 @@
+{% extends "aibase.html" %}
+
+{% block content %}
+
+    <h2 class="p-5 align-content-center">Post A Summary To Socialist Economics Blog</h2>
+
+    <section class="bg-success text-light fs-5 fw-bold p-5">
+        <form action="/manage/bloggerpost" method="post">
+
+
+        <div class="form-group">
+                <label for="summaryInput3">Image Link</label>
+                <input type="text" name="imagelink" class="form-control" id="summaryInput3"
+                       placeholder="http://somesite/images/myimage.jpg">
+            </div>
+
+            <div class="form-group">
+                <label for="summarySelect1">Select Summary</label>
+                <select name="summaries" class="form-control" id="summarySelect1">
+                    {% for summary in summaries %}
+                        <option
+                                value="{{ summary.id }}">{{ summary.title }}
+                        </option>
+                    {% endfor %}
+                </select>
+            </div>
+
+
+            <button type="submit" class="btn btn-primary">Submit</button>
+        </form>
+    </section>
+
+
+{% endblock %}

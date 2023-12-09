@@ -1,0 +1,34 @@
+{% extends "aibase.html" %}
+
+{% block content %}
+
+    <div class="text-center p-3 mt-4">
+        <h2>
+            Build Socialist Economics Summaries
+        </h2>
+    </div>
+
+    <div class="container bg-dark">
+        <div class="text-light">
+            <form action={{ url_for('build_marxist_summaries') }} method="post" name="BuildSummariesForm">
+                <div class="form-group border-dark border-5 p-2 bg-secondary text-light">
+                    {{ form.feeds.label(class_="form-label") }}
+                    {{ form.feeds(class_="form-control") }}
+                </div>
+                <div class="form-group border-dark border-5 p-2 bg-secondary text-light">
+                    {{ form.ms_feeds.label(class_="form-label") }}
+                    {{ form.ms_feeds(class_="form-control") }}
+                </div>
+                <div class="center">
+                    <button type="submit" class="bg-primary text-white text-center center">Submit</button>
+                </div>
+
+
+            </form>
+        </div>
+
+
+    </div>
+
+
+{% endblock %}

@@ -1,0 +1,62 @@
+{% extends "aibase.html" %}
+
+{% block content %}
+
+    <section class="bg-warning">
+    <div style="text-align: center" class="border-dark border-3">
+        <br /><br /><br />
+        <h2>Publish the Sports Comedy  Radio Podcast to Podbean</h2>
+        <br />
+    </div>
+    </section>
+    <section>
+        <form action="{{ url_for('pb_sports_publish') }}" method="post" novalidate>
+            {{ form.hidden_tag() }}
+            <div class="form-group border-dark border-5 p-2 bg-secondary text-light">
+                {{ form.title.label(class_="form-label") }}
+                {{ form.title(class_="form-control", size=50) }}
+            </div>
+            <div class="form-group border-dark border-5 p-2 bg-secondary text-light">
+                {{ form.filename.label(class_="form-label") }}
+                {{ form.filename(class_="form-control") }}
+            </div>
+            <div class="form-group border-dark border-5 p-2 bg-secondary text-light">
+                {{ form.description.label }}
+                {{ form.description(class_="form-control", size=75) }}
+            </div>
+            <div class="form-group border-dark border-5 p-2 bg-secondary text-light">
+                {{ form.broadcast.label }}
+                {{ form.broadcast(class_="form-control", size=50) }}
+            </div>
+            <div class="form-group border-dark border-5 p-2 bg-secondary text-light">
+                {{ form.rec_date.label }}
+                {{ form.rec_date(class_="form-control", size=20) }}
+            </div>
+            <div class="form-group border-dark border-5 p-2 bg-secondary text-light">
+                {{ form.image_url.label }}
+                {{ form.image_url(class_="form-control", size=75) }}
+            </div>
+            <div class="form-group border-dark border-5 p-2 bg-secondary text-light">
+                {{ form.headline.label }}
+                {{ form.headline(class_="form-control", size=75) }}
+            </div>
+
+            <div class="form-group border-dark border-5 p-2 bg-secondary text-light">
+                {{ form.hosts.label }}
+                {{ form.hosts(class_="form-control", size=50) }}
+            </div>
+            <div class="form-group border-dark border-5 p-2 bg-secondary text-light">
+                {{ form.guests.label }}
+                {{ form.guests(class_="form-control", size=50) }}
+            </div>
+
+            <div class="form-group border-dark border-5 p-2 bg-secondary text-light">
+                <input type="submit" value="Submit">
+            </div>
+
+        </form>
+
+    </section>
+
+
+{% endblock %}

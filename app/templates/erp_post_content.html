@@ -1,0 +1,16 @@
+<h1 style="text-align: center;">{{ props['title'] }}</h1>
+<br/>
+<div class="separator" style="clear: both; text-align: center;">
+    <a href={{ props['imagelink'] }}
+        imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+        <img border="2"
+             data-original-height={{ props['height'] }}
+             data-original-width={{ props['width'] }}
+             height={{ props['height'] }}
+             src={{ props['image_url'] }}
+             width={{ props['width'] }}
+             src={{ props['imagelink'] }}
+        />
+    </a>
+</div>
+<div>{{  props['post'] }}</div>

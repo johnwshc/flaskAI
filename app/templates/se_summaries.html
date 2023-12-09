@@ -1,0 +1,71 @@
+{% extends "aibase.html" %}
+
+{% block content %}
+    <div class="p-3 bg-light"></div>
+    <br />
+    <h1>The Summaries</h1>
+    {#    <!-- On tables -->#}
+    {#<table class="table-primary">...</table>#}
+    {#<table class="table-secondary">...</table>#}
+    {#<table class="table-success">...</table>#}
+    {#<table class="table-danger">...</table>#}
+    {#<table class="table-warning">...</table>#}
+    {#<table class="table-info">...</table>#}
+    {#<table class="table-light">...</table>#}
+    {#<table class="table-dark">...</table>#}
+    {##}
+    {#<!-- On rows -->#}
+    {#<tr class="table-primary">...</tr>#}
+    {#<tr class="table-secondary">...</tr>#}
+    {#<tr class="table-success">...</tr>#}
+    {#<tr class="table-danger">...</tr>#}
+    {#<tr class="table-warning">...</tr>#}
+    {#<tr class="table-info">...</tr>#}
+    {#<tr class="table-light">...</tr>#}
+    {#<tr class="table-dark">...</tr>#}
+    {##}
+    {#<!-- On cells (`td` or `th`) -->#}
+    {#<tr>#}
+    {#  <td class="table-primary">...</td>#}
+    {#  <td class="table-secondary">...</td>#}
+    {#  <td class="table-success">...</td>#}
+    {#  <td class="table-danger">...</td>#}
+    {#  <td class="table-warning">...</td>#}
+    {#  <td class="table-info">...</td>#}
+    {#  <td class="table-light">...</td>#}
+    {#  <td class="table-dark">...</td>#}
+    {#</tr>#}
+
+    <div class="container bg-light text-dark">
+
+    <table class="table-striped w-100">
+        <thead>
+        <tr>
+{#            <th scope="col">#</th>#}
+            <th scope="col">Title</th>
+            <th scope="col">Author</th>
+            <th scope="col">Orig Published</th>
+            <th scope="col">Summary Published</th>
+            <th scope="col">View/Edit</th>
+        </tr>
+        </thead>
+        <tbody>
+
+        {% for s in summaries %}
+            <tr>
+{#                <th scope="row">{{ i }}</th>#}
+                <td>{{ s.title }}</td>
+                <td>{{ s.author }}</td>
+                <td>{{ s.orig_published.strftime("%B %d, %Y") }}</td>
+                <td> {{ "Yes"  if (s.published) else "No" }} </td>
+                <td>
+                    <a href="/manage/review_summary?sid={{ s.id }}"> Review/Edit </a>
+                </td>
+            </tr>
+        {% endfor %}
+
+        </tbody>
+    </table>
+    </div>
+
+{% endblock %}

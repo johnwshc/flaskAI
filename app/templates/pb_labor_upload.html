@@ -1,0 +1,25 @@
+<div>
+    <h4><br/></h4>
+    <h4>Enlighten Radio Presents</h4>
+    <h2> {{ props.title }}</h2>
+    <h3>{{ props.headline }}</h3>
+    <p>&nbsp;</p>
+    <p><img alt="{{ props.img_alt }}" src="{{ props.image_url }}" width="450"/></p>
+    <p>&nbsp;</p>
+    <h4>{{ props.broadcast }}</h4>
+    <h3>Hosts: {{ props.hosts }}</h3>
+    {% if props.guests %}
+    <p><h2>Guests: {{ props.guests }}</h2>
+    {% endif %}
+    <h4>Description: {{ props.description }}</h4>
+
+    <h4>This Episode Recorded {{ props.rec_date }} at the Red Caboose Studio, Harpers Ferry, WV</h4>
+
+    <p>&nbsp;</p>
+    <p><strong><a href="http://www.enlightenradio.org">Our Blog&nbsp;</a> &nbsp;<a
+            href="http://player.enlightenradio.org">Our Player</a>&nbsp; &nbsp;<a
+            href="http://podcasts.enlightenradio.org">Our Podcast</a>s</strong></p>
+    <p><strong>questions, comments: jcase4218@gmail.com</strong></p>
+    <p>&nbsp;</p>
+
+</div>

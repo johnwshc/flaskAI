@@ -1,0 +1,49 @@
+{% extends "aibase.html" %}
+
+
+
+{% block content %}
+
+    <div class="container text-center bg-info">
+        <h2>
+            <br/>
+            Review or Edit A Socialist Economics Summary Text
+        </h2>
+
+    </div>
+    <div class="container text-center bg-dark text-info">
+        <H2>
+            Title: {{ summary.title }}
+        </H2>
+        <h4>
+            Author: {{ summary.author }}
+        </h4>
+        <h4>
+            <a href={{ summary.url }}>Original URL</a>
+
+        </h4>
+
+        <form action={{ url_for("se_review_summary") }} method="post" name="summary_text_form">
+
+            <div class="form-group">
+                <label for="summaryTextarea1">{{ form.summary_text.label }}</label>
+                <textarea class="form-control"
+                          name="summ_txt"
+                          id="summaryTextarea1"
+                          rows="30">{{ form.summary_text.data }}
+                </textarea>
+                <input type="hidden" id="sid" name="sid" value={{ form.summary_id.data }}>
+
+            </div>
+            <div>
+
+                <button type="submit" class="btn btn-light text-info">Submit</button>
+            </div>
+
+
+        </form>
+
+
+    </div>
+
+{% endblock %}

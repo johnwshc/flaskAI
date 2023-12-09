@@ -1,0 +1,63 @@
+{% extends "aibase.html" %}
+
+{% block content %}
+
+    <div class="container text-center bg-info">
+        <h2>
+            <br/>
+            Publish A Page of Summaries To Socialist-Economics
+        </h2>
+
+    </div>
+    <div class="container text-center">
+        <form action={{ url_for("se_publish") }} method="post" name="publish_page_form">
+            <div class="form-group border-dark border-5 p-2 bg-secondary text-light">
+                {{ form.page_title.label(class_="form-label") }}
+                {{ form.page_title(class_="form-control", size=50) }}
+            </div>
+            <div class="form-group border-dark border-5 p-2 bg-secondary text-light">
+                {{ form.about.label(class_="form-label") }}
+                {{ form.about(class_="form-control") }}
+            </div>
+            <div class="form-group border-dark border-5 p-2 bg-secondary text-light">
+                {{ form.imagelink.label(class_="form-label") }}
+                {{ form.imagelink(class_="form-control", size=200) }}
+            </div>v
+            <div class="p-2 border-dark bg-light text-info text-center">
+                <h3> Please selct up to 5 summaries to publish.</h3>
+
+            </div>
+            <div class="form-group text-light" >
+                <table class="table table-bordered w-100">
+                    <thead>
+                    <tr>
+                        <th scope="col">Title</th>
+                        <th scope="col">Author</th>
+                        <th scope="col">Publish</th>
+                    </tr>
+                    </thead>
+                    <tbody>
+                    {% for s in summaries %} }}
+                    <tr>
+
+                        <td>{{ s.title }}</td>
+                        <td>{{ s.author }}</td>
+
+                        <td>
+                            <input type="checkbox" name={{ s.id }} />&nbsp;
+                        </td>
+                    </tr>
+                    {% endfor %}
+
+
+                    </tbody>
+
+
+                </table>
+            </div>
+            <button type="submit" class="btn btn-light text-info">Submit</button>
+
+        </form>
+
+    </div>
+{% endblock %}

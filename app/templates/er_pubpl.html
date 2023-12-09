@@ -1,0 +1,50 @@
+{% extends "aibase.html" %}
+
+{% block content %}
+
+    <h2 class="p-5 align-content-center">Post Playlist To Blogger</h2>
+
+
+    <section class="bg-warning text-dark fs-5 fw-bold p-5">
+        <form action="/manage/pubpl" method="post">
+
+            <div class="form-group">
+                <label for="exampleFormControlInput1">Title</label>
+                <input type="text" name="title" class="form-control" id="exampleFormControlInput1"
+                       placeholder="Enter a title for the blog post.">
+            </div>
+            <div class="form-group">
+                <label for="exampleFormControlTextarea1">Description</label>
+                <textarea name="desc" class="form-control" id="exampleFormControlTextarea1"
+                          rows="10" placeholder="Enter a description for playlist post."></textarea>
+            </div>
+
+             <div class="form-group">
+                    <label for="exampleFormControlSelect1">Select Blog</label>
+                    <select name="blogname" class="form-control" id="exampleFormControlSelect1">
+                        {% for item in data %}
+                            <option value="{{ item }}">{{ item }}</option>
+                        {% endfor %}
+                    </select>
+            </div>
+            <div class="form-group">
+                <label for="exampleFormControlSelect1">Select Playlist File</label>
+                <select name="playlist" class="form-control" id="exampleFormControlSelect1">
+                    {% for item in file_names %}
+                        <option value="{{ item }}">{{ item }}</option>
+                    {% endfor %}
+                </select>
+            </div>
+
+
+            <div class="form-group">
+                 <label for="exampleFormControlInput1">Image Link</label>
+                 <input type="text" name="imagelink" class="form-control" id="exampleFormControlInput1"
+                     placeholder="http://somesite/images/myimage.jpg">
+            </div>
+            <button type="submit" class="btn btn-primary">Submit</button>
+        </form>
+    </section>
+
+
+{% endblock %}

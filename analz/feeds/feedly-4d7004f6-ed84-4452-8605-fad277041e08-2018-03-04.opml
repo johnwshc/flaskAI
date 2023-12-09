@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<opml version="1.0">
+    <head>
+        <title>John subscriptions in feedly Cloud</title>
+    </head>
+    <body>
+        <outline text="local" title="local">
+            <outline type="rss" text="Jefferson County News" title="Jefferson County News" xmlUrl="http://www.jeffersoncountywv.org/feeds/news.rss" htmlUrl="https://www.jeffersoncountywv.org"/>
+            <outline type="rss" text="Shepherdstown Friends Testimonies" title="Shepherdstown Friends Testimonies" xmlUrl="http://shepfriends.blogspot.com/feeds/posts/default" htmlUrl="http://shepfriends.blogspot.com/"/>
+            <outline type="rss" text="MARC Alerts from Maryland Transit Administration" title="MARC Alerts from Maryland Transit Administration" xmlUrl="http://alerts.marylandmail.com/feeds/alerts/2/"/>
+        </outline>
+        <outline text="faith" title="faith">
+            <outline type="rss" text="Quakers | American Friends Service Committee" title="Quakers | American Friends Service Committee" xmlUrl="http://afsc.org/taxonomy/term/565/0/feed" htmlUrl="http://afsc.org/taxonomy/term/565/0"/>
+            <outline type="rss" text="Nontheist Friends: Quaker atheists, agnostics, humanists, and others ..." title="Nontheist Friends: Quaker atheists, agnostics, humanists, and others ..." xmlUrl="http://www.nontheistfriends.org/feed/" htmlUrl="http://www.nontheistfriends.org"/>
+            <outline type="rss" text="The Remedy" title="The Remedy" xmlUrl="http://mediapub.it.ox.ac.uk/feeds/139463/audio.xml" htmlUrl="http://soundcloud.com/naomirichman"/>
+        </outline>
+        <outline text="science" title="science">
+            <outline type="rss" text="Science Magazine Podcast" title="Science Magazine Podcast" xmlUrl="http://www.sciencemag.org/rss/podcast.xml" htmlUrl="http://www.sciencemag.org/"/>
+            <outline type="rss" text="Inside Activity Tracking" title="Inside Activity Tracking" xmlUrl="http://feeds.feedburner.com/InsideActivityTracking" htmlUrl="http://www.insideactivitytracking.com"/>
+            <outline type="rss" text="Scientific American Podcast" title="Scientific American Podcast" xmlUrl="http://rss.sciam.com/sciam/60secsciencepodcast" htmlUrl="http://www.scientificamerican.com"/>
+            <outline type="rss" text="ScienceBlogs Select" title="ScienceBlogs Select" xmlUrl="http://feeds.feedburner.com/scienceblogs/ScienceblogsSelect" htmlUrl="http://scienceblogs.com"/>
+            <outline type="rss" text="TEDTalks Health" title="TEDTalks Health" xmlUrl="http://feeds.feedburner.com/iTunesPodcastTTHealth" htmlUrl="https://www.ted.com/themes/itunes_podcasts_health.html"/>
+            <outline type="rss" text="Artificial intelligence (AI)" title="Artificial intelligence (AI)" xmlUrl="http://www.guardian.co.uk/technology/artificialintelligenceai/rss" htmlUrl="https://www.theguardian.com/technology/artificialintelligenceai"/>
+            <outline type="rss" text="artificial intelligence - Google News" title="artificial intelligence - Google News" xmlUrl="http://news.google.com/news?hl=en&amp;gl=us&amp;q=artificial%20intelligence&amp;um=1&amp;ie=UTF-8&amp;output=rss" htmlUrl="https://news.google.com/news/search/section/q/artificial%20intelligence/artificial%20intelligence?ned=us&amp;hl=en&amp;gl=US"/>
+            <outline type="rss" text="This American Life" title="This American Life" xmlUrl="http://feeds.thisamericanlife.org/talpodcast" htmlUrl="https://www.thisamericanlife.org"/>
+            <outline type="rss" text="ScienceDaily: Latest Science News" title="ScienceDaily: Latest Science News" xmlUrl="http://www.sciencedaily.com/newsfeed.xml" htmlUrl="https://www.sciencedaily.com"/>
+            <outline type="rss" text="Artificial Intelligence News -- ScienceDaily" title="Artificial Intelligence News -- ScienceDaily" xmlUrl="http://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml" htmlUrl="https://www.sciencedaily.com/news/computers_math/artificial_intelligence/"/>
+            <outline type="rss" text="MIT News - Computer Science and Artificial Intelligence Laboratory (CSAIL)" title="MIT News - Computer Science and Artificial Intelligence Laboratory (CSAIL)" xmlUrl="http://web.mit.edu/newsoffice/topic/mitcomputers-rss.xml" htmlUrl="http://news.mit.edu/topic/mitcomputer-science-and-artificial-intelligence-laboratory-csail-rss.xml"/>
+        </outline>
+        <outline text="wonk" title="wonk">
+            <outline type="rss" text="Partially Derivative" title="Partially Derivative" xmlUrl="http://feeds.feedburner.com/PartiallyDerivative" htmlUrl="http://partiallyderivative.com"/>
+            <outline type="rss" text="Google Developer Podcast" title="Google Developer Podcast" xmlUrl="http://feeds.feedburner.com/GoogleDeveloperPodcast" htmlUrl="http://google-code-updates.blogspot.com/search/label/podcast"/>
+            <outline type="rss" text="Economic Update" title="Economic Update" xmlUrl="http://economicupdate.podbean.com/feed/" htmlUrl="http://economicupdate.podbean.com"/>
+            <outline type="rss" text="London School of Economics" title="London School of Economics" xmlUrl="http://www.lse.ac.uk/assets/richmedia/webFeeds/publicLecturesAndEvents_iTunesStore.xml" htmlUrl="http://www.lse.ac.uk/newsAndMedia/videoAndAudio/channels/publicLecturesAndEvents/"/>
+            <outline type="rss" text="FT Alphachat" title="FT Alphachat" xmlUrl="http://rss.acast.com/ft-alphachat" htmlUrl="https://ftalphaville.ft.com/series/Alphachat"/>
+        </outline>
+        <outline text="Must Read" title="Must Read">
+            <outline type="rss" text="Marginal Revolution" title="Marginal Revolution" xmlUrl="http://www.marginalrevolution.com/marginalrevolution/index.rdf" htmlUrl="http://marginalrevolution.com"/>
+            <outline type="rss" text="Economist's View" title="Economist's View" xmlUrl="http://economistsview.typepad.com/economistsview/atom.xml" htmlUrl="http://economistsview.typepad.com/economistsview/"/>
+            <outline type="rss" text="ScienceBlogs Select" title="ScienceBlogs Select" xmlUrl="http://feeds.feedburner.com/scienceblogs/ScienceblogsSelect" htmlUrl="http://scienceblogs.com"/>
+            <outline type="rss" text="mainly macro" title="mainly macro" xmlUrl="http://mainlymacro.blogspot.com/feeds/posts/default" htmlUrl="http://mainlymacro.blogspot.com/"/>
+            <outline type="rss" text="Jared Bernstein | On the Economy" title="Jared Bernstein | On the Economy" xmlUrl="http://feeds.feedburner.com/JaredBernstein" htmlUrl="http://jaredbernsteinblog.com"/>
+            <outline type="rss" text="socialist-economics" title="socialist-economics" xmlUrl="http://economics.enlightenradio.org/feeds/posts/default?alt=rss" htmlUrl="http://economics.enlightenradio.org/"/>
+            <outline type="rss" text="WV Center on Budget and Policy" title="WV Center on Budget and Policy" xmlUrl="http://www.wvpolicy.org/feed" htmlUrl="http://www.wvpolicy.org"/>
+            <outline type="rss" text="Center on Budget: Comprehensive News Feed" title="Center on Budget: Comprehensive News Feed" xmlUrl="http://www.cbpp.org/rss/feeds/comprehensiveTopics.xml" htmlUrl="https://www.cbpp.org/rss/feeds/comprehensiveTopics.xml"/>
+            <outline type="rss" text="TripleCrisis" title="TripleCrisis" xmlUrl="http://triplecrisis.com/?feed=rss2" htmlUrl="http://triplecrisis.com"/>
+            <outline type="rss" text="Robert Kuttner" title="Robert Kuttner" xmlUrl="http://www.huffingtonpost.com/author/index.php?author=robert-kuttner" htmlUrl="https://www.huffingtonpost.com/author/robert-kuttner/feed"/>
+            <outline type="rss" text="IMF Blog" title="IMF Blog" xmlUrl="http://blog-imfdirect.imf.org/feed/" htmlUrl="https://blogs.imf.org"/>
+            <outline type="rss" text="Dollars &amp; Sense Blog" title="Dollars &amp; Sense Blog" xmlUrl="http://dollarsandsense.org/blog/feed" htmlUrl="http://dollarsandsense.org/blog"/>
+            <outline type="rss" text="Blog | Economic Policy Institute" title="Blog | Economic Policy Institute" xmlUrl="http://www.epi.org/blog/feed/" htmlUrl="http://www.epi.org"/>
+            <outline type="rss" text="Digitopoly" title="Digitopoly" xmlUrl="http://feeds.feedburner.com/digitopoly" htmlUrl="https://digitopoly.org"/>
+            <outline type="rss" text="Article – People's World" title="Article – People's World" xmlUrl="http://www.peoplesworld.org/feed/?post_type=article" htmlUrl="http://www.peoplesworld.org"/>
+        </outline>
+        <outline text="pol" title="pol">
+            <outline type="rss" text="White House.gov Blog Feed" title="White House.gov Blog Feed" xmlUrl="http://www.whitehouse.gov/feed/blog/white-house" htmlUrl="https://www.whitehouse.gov/blog-daily-listings-rss"/>
+            <outline type="rss" text="Serve.gov - Stories of Service Feed" title="Serve.gov - Stories of Service Feed" xmlUrl="http://www.serve.gov/rss_stories.asp" htmlUrl="http://www.serve.gov"/>
+            <outline type="rss" text="Macro and Markets" title="Macro and Markets" xmlUrl="http://feeds.cfr.org/rkahn" htmlUrl="https://www.cfr.org/"/>
+            <outline type="rss" text="Open Congress : Blog" title="Open Congress : Blog" xmlUrl="http://feeds.feedburner.com/OpenCongressCongressGossipBlog" htmlUrl="https://www.opencongress.org/blog"/>
+            <outline type="rss" text="The American Prospect" title="The American Prospect" xmlUrl="http://prospect.org/rss.xml" htmlUrl="http://prospect.org/rss.xml"/>
+            <outline type="rss" text="L'Humanité in English" title="L'Humanité in English" xmlUrl="http://www.humaniteinenglish.com/spip.php?page=backend" htmlUrl="http://www.humaniteinenglish.com/"/>
+            <outline type="rss" text="WV Center on Budget and Policy" title="WV Center on Budget and Policy" xmlUrl="http://www.wvpolicy.org/feed" htmlUrl="http://www.wvpolicy.org"/>
+            <outline type="rss" text="The New York Review of Books" title="The New York Review of Books" xmlUrl="http://www.nybooks.com/feed/" htmlUrl="http://www.nybooks.com"/>
+            <outline type="rss" text="SCOTUSblog" title="SCOTUSblog" xmlUrl="http://www.scotusblog.com/wp/feed/" htmlUrl="http://www.scotusblog.com"/>
+            <outline type="rss" text="Black History Podcast" title="Black History Podcast" xmlUrl="http://theblackhistorypodcast.podomatic.com/rss2.xml" htmlUrl="http://theblackhistorypodcast.podomatic.com"/>
+            <outline type="rss" text="UnderstandingSociety" title="UnderstandingSociety" xmlUrl="http://understandingsociety.blogspot.com/feeds/posts/default" htmlUrl="http://understandingsociety.blogspot.com/"/>
+            <outline type="rss" text="Article – People's World" title="Article – People's World" xmlUrl="http://www.peoplesworld.org/feed/?post_type=article" htmlUrl="http://www.peoplesworld.org"/>
+            <outline type="rss" text="Bill Moyers Journal" title="Bill Moyers Journal" xmlUrl="http://www.pbs.org/moyers/journal/blog/atom.xml" htmlUrl="http://www.pbs.org/moyers/journal/blog/"/>
+            <outline type="rss" text="Working In These Times" title="Working In These Times" xmlUrl="http://www.inthesetimes.com/working/rss" htmlUrl="http://inthesetimes.com/working/"/>
+        </outline>
+        <outline text="bol" title="bol">
+            <outline type="rss" text="Belabored by Dissent Magazine" title="Belabored by Dissent Magazine" xmlUrl="http://www.dissentmagazine.org/feed/belabored" htmlUrl="http://www.dissentmagazine.org/"/>
+        </outline>
+        <outline text="economics" title="economics">
+            <outline type="rss" text="Working-Class Perspectives" title="Working-Class Perspectives" xmlUrl="http://workingclassstudies.wordpress.com/feed/" htmlUrl="https://workingclassstudies.wordpress.com"/>
+            <outline type="rss" text="CEPR Feed" title="CEPR Feed" xmlUrl="http://feeds.feedburner.com/cepr" htmlUrl="http://cepr.net/table/publications/op-eds-columns/"/>
+            <outline type="rss" text="Greg Mankiw's Blog" title="Greg Mankiw's Blog" xmlUrl="http://feeds.feedburner.com/blogspot/SOpj" htmlUrl="http://gregmankiw.blogspot.com/"/>
+            <outline type="rss" text="*Dani Rodrik's* weblog" title="*Dani Rodrik's* weblog" xmlUrl="http://rodrik.typepad.com/dani_rodriks_weblog/atom.xml" htmlUrl="http://rodrik.typepad.com/dani_rodriks_weblog/"/>
+            <outline type="rss" text="Crooked Timber" title="Crooked Timber" xmlUrl="http://crookedtimber.org/feed/" htmlUrl="http://crookedtimber.org"/>
+            <outline type="rss" text="WV Center on Budget and Policy" title="WV Center on Budget and Policy" xmlUrl="http://www.wvpolicy.org/feed" htmlUrl="http://www.wvpolicy.org"/>
+            <outline type="rss" text="The New York Review of Books" title="The New York Review of Books" xmlUrl="http://www.nybooks.com/feed/" htmlUrl="http://www.nybooks.com"/>
+            <outline type="rss" text="naked capitalism" title="naked capitalism" xmlUrl="http://www.nakedcapitalism.com/feed" htmlUrl="https://www.nakedcapitalism.com"/>
+            <outline type="rss" text="Wonkblog" title="Wonkblog" xmlUrl="http://feeds.washingtonpost.com/rss/rss_ezra-klein" htmlUrl="http://www.washingtonpost.com/blogs/wonkblog"/>
+            <outline type="rss" text="Global Policy Journal" title="Global Policy Journal" xmlUrl="http://www.globalpolicyjournal.com/blog/author/%2A/feed" htmlUrl="http://www.globalpolicyjournal.com/blog/%2A/ht"/>
+            <outline type="rss" text="Dollars &amp; Sense Blog" title="Dollars &amp; Sense Blog" xmlUrl="http://dollarsandsense.org/blog/feed" htmlUrl="http://dollarsandsense.org/blog"/>
+            <outline type="rss" text="The Baseline Scenario" title="The Baseline Scenario" xmlUrl="http://feeds.feedburner.com/BaselineScenario?format=xml" htmlUrl="https://baselinescenario.com"/>
+            <outline type="rss" text="Blog | Economic Policy Institute" title="Blog | Economic Policy Institute" xmlUrl="http://www.epi.org/blog/feed/" htmlUrl="http://www.epi.org"/>
+            <outline type="rss" text="Economic Policy Institute" title="Economic Policy Institute" xmlUrl="http://www.epi.org/rss.xml" htmlUrl="http://www.epi.org"/>
+            <outline type="rss" text="Wonk Room" title="Wonk Room" xmlUrl="http://wonkroom.thinkprogress.org/feed/" htmlUrl="http://thinkprogress.org"/>
+            <outline type="rss" text="Michael Roberts Blog" title="Michael Roberts Blog" xmlUrl="http://thenextrecession.wordpress.com/feed/" htmlUrl="https://thenextrecession.wordpress.com"/>
+            <outline type="rss" text="NYT &gt; Business" title="NYT &gt; Business" xmlUrl="http://www.nytimes.com/services/xml/rss/nyt/Business.xml" htmlUrl="https://www.nytimes.com/pages/business/index.html?partner=rss&amp;emc=rss"/>
+            <outline type="rss" text="Economic Update" title="Economic Update" xmlUrl="http://economicupdate.podbean.com/feed/" htmlUrl="http://economicupdate.podbean.com"/>
+            <outline type="rss" text="National Bureau of Economic Research Working Papers" title="National Bureau of Economic Research Working Papers" xmlUrl="http://www.nber.org/rss/new.xml" htmlUrl="http://www.nber.org/new.html"/>
+            <outline type="rss" text="Marginal Revolution" title="Marginal Revolution" xmlUrl="http://www.marginalrevolution.com/marginalrevolution/index.rdf" htmlUrl="http://marginalrevolution.com"/>
+            <outline type="rss" text="Economist's View" title="Economist's View" xmlUrl="http://economistsview.typepad.com/economistsview/atom.xml" htmlUrl="http://economistsview.typepad.com/economistsview/"/>
+            <outline type="rss" text="" title="" xmlUrl="http://www.nextnewdeal.net/rss.xml" htmlUrl="http://www.nextnewdeal.net/"/>
+            <outline type="rss" text="L.A. Times - Business" title="L.A. Times - Business" xmlUrl="http://feeds.latimes.com/latimes/business" htmlUrl="http://www.latimes.com/business/rss2.0.xml"/>
+            <outline type="rss" text="Labor &amp; Economic News - Institute for Research on Labor &amp; Employment Library" title="Labor &amp; Economic News - Institute for Research on Labor &amp; Employment Library" xmlUrl="http://iirl-labor-economic-news.blogspot.com/atom.xml" htmlUrl="http://iirl-labor-economic-news.blogspot.com/"/>
+            <outline type="rss" text="Larry Summers" title="Larry Summers" xmlUrl="http://larrysummers.com/feed/" htmlUrl="http://larrysummers.com"/>
+            <outline type="rss" text="News N Economics" title="News N Economics" xmlUrl="http://feeds.feedburner.com/NewsNEconomics" htmlUrl="https://unlimitedcellphoneplansblog.wordpress.com"/>
+            <outline type="rss" text="Center on Budget: Comprehensive News Feed" title="Center on Budget: Comprehensive News Feed" xmlUrl="http://www.cbpp.org/rss/feeds/comprehensiveTopics.xml" htmlUrl="https://www.cbpp.org/rss/feeds/comprehensiveTopics.xml"/>
+            <outline type="rss" text="Robert Kuttner" title="Robert Kuttner" xmlUrl="http://www.huffingtonpost.com/author/index.php?author=robert-kuttner" htmlUrl="https://www.huffingtonpost.com/author/robert-kuttner/feed"/>
+            <outline type="rss" text="Global Policy Journal" title="Global Policy Journal" xmlUrl="http://feeds.feedburner.com/GlobalPolicyJournal-AllArticles" htmlUrl="http://www.globalpolicyjournal.com/articles/browse/type/all"/>
+            <outline type="rss" text="Equitablog – Equitable Growth" title="Equitablog – Equitable Growth" xmlUrl="http://equitablegrowth.org/equitablog/feed/" htmlUrl="http://equitablegrowth.org"/>
+            <outline type="rss" text="IMF Blog" title="IMF Blog" xmlUrl="http://blog-imfdirect.imf.org/feed/" htmlUrl="https://blogs.imf.org"/>
+            <outline type="rss" text="Consider the Evidence" title="Consider the Evidence" xmlUrl="http://lanekenworthy.net/feed/" htmlUrl="https://lanekenworthy.net"/>
+            <outline type="rss" text="Ben Bernanke's Blog" title="Ben Bernanke's Blog" xmlUrl="http://webfeeds.brookings.edu/brookingsrss/topfeeds/benbernanke?format=xml" htmlUrl="https://www.brookings.edu"/>
+            <outline type="rss" text="Economic Perspectives from Kansas City" title="Economic Perspectives from Kansas City" xmlUrl="http://neweconomicperspectives.blogspot.com/feeds/posts/default"/>
+            <outline type="rss" text="News Single Payer" title="News Single Payer" xmlUrl="http://www.pnhp.org/news/index.xml" htmlUrl="http://www.pnhp.org/news/"/>
+            <outline type="rss" text="Project Syndicate" title="Project Syndicate" xmlUrl="http://www.project-syndicate.org/ps.rss" htmlUrl="https://www.project-syndicate.org/rss"/>
+            <outline type="rss" text="WSJ.com: Real Time Economics" title="WSJ.com: Real Time Economics" xmlUrl="http://feeds.wsjonline.com/wsj/economics/feed" htmlUrl="http://blogs.wsj.com/economics"/>
+            <outline type="rss" text="Follow the Money" title="Follow the Money" xmlUrl="http://blogs.cfr.org/setser/feed/" htmlUrl="http://blogs.cfr.org/setser"/>
+            <outline type="rss" text="New Economy Articles and Blogs from YES!  Magazine" title="New Economy Articles and Blogs from YES!  Magazine" xmlUrl="http://feeds.feedburner.com/yes/new-economy" htmlUrl="http://www.yesmagazine.org/new-economy/new-economy"/>
+            <outline type="rss" text="RMF - Research on Money and Finance" title="RMF - Research on Money and Finance" xmlUrl="http://www.researchonmoneyandfinance.org/feed/" htmlUrl="http://www.researchonmoneyandfinance.org"/>
+            <outline type="rss" text="The Economic Populist - Speak Your Mind One Dime at a Time" title="The Economic Populist - Speak Your Mind One Dime at a Time" xmlUrl="http://www.economicpopulist.org/?q=rss.xml" htmlUrl="http://www.economicpopulist.org"/>
+            <outline type="rss" text="Socialist Economic Bulletin" title="Socialist Economic Bulletin" xmlUrl="http://socialisteconomicbulletin.blogspot.com/feeds/posts/default" htmlUrl="http://socialisteconomicbulletin.blogspot.com/"/>
+            <outline type="rss" text="Freakonomics Radio" title="Freakonomics Radio" xmlUrl="http://feeds.feedburner.com/freakonomicsradio" htmlUrl="http://www.wnycstudios.org/articles/freakonomics-podcast"/>
+            <outline type="rss" text="Open Economics" title="Open Economics" xmlUrl="http://openeconomicsnd.wordpress.com/feed/" htmlUrl="https://openeconomicsnd.wordpress.com"/>
+            <outline type="rss" text="Global Policy Journal" title="Global Policy Journal" xmlUrl="http://www.globalpolicyjournal.com/blog/author/*/feed" htmlUrl="http://www.globalpolicyjournal.com/blog/%2A/ht"/>
+            <outline type="rss" text="Apollo Alliance" title="Apollo Alliance" xmlUrl="http://apolloalliance.org/feed/"/>
+            <outline type="rss" text="NYT &gt; Paul Krugman" title="NYT &gt; Paul Krugman" xmlUrl="http://topics.nytimes.com/top/opinion/editorialsandoped/oped/columnists/paulkrugman/?rss=1" htmlUrl="https://www.nytimes.com/column/paul-krugman"/>
+            <outline type="rss" text="washingtonpost.com - Business" title="washingtonpost.com - Business" xmlUrl="http://www.washingtonpost.com/wp-dyn/rss/business/index.xml" htmlUrl="http://www.washingtonpost.com/pb/business/"/>
+            <outline type="rss" text="mainly macro" title="mainly macro" xmlUrl="http://mainlymacro.blogspot.com/feeds/posts/default" htmlUrl="http://mainlymacro.blogspot.com/"/>
+            <outline type="rss" text="Calculated Risk" title="Calculated Risk" xmlUrl="http://feeds.feedburner.com/CalculatedRisk" htmlUrl="http://www.calculatedriskblog.com/"/>
+            <outline type="rss" text="Jared Bernstein | On the Economy" title="Jared Bernstein | On the Economy" xmlUrl="http://feeds.feedburner.com/JaredBernstein" htmlUrl="http://jaredbernsteinblog.com"/>
+            <outline type="rss" text="socialist-economics" title="socialist-economics" xmlUrl="http://economics.enlightenradio.org/feeds/posts/default?alt=rss" htmlUrl="http://economics.enlightenradio.org/"/>
+            <outline type="rss" text="Mandel on Innovation and Growth" title="Mandel on Innovation and Growth" xmlUrl="http://innovationandgrowth.wordpress.com/feed/" htmlUrl="https://innovationandgrowth.wordpress.com"/>
+            <outline type="rss" text="The Big Picture" title="The Big Picture" xmlUrl="http://www.ritholtz.com/blog/feed/" htmlUrl="http://ritholtz.com"/>
+            <outline type="rss" text="Grasping Reality with Both Hands: The Semi-Daily Journal Economist Brad DeLong" title="Grasping Reality with Both Hands: The Semi-Daily Journal Economist Brad DeLong" xmlUrl="http://delong.typepad.com/sdj/atom.xml" htmlUrl="http://www.bradford-delong.com/"/>
+            <outline type="rss" text="Urban Institute Research" title="Urban Institute Research" xmlUrl="http://www.urban.org/index/just-released/feed" htmlUrl="http://www.urban.org/index/just-released/feed"/>
+            <outline type="rss" text="TripleCrisis" title="TripleCrisis" xmlUrl="http://triplecrisis.com/?feed=rss2" htmlUrl="http://triplecrisis.com"/>
+            <outline type="rss" text="The Politics Guys" title="The Politics Guys" xmlUrl="https://audioboom.com/channels/4902914.rss" htmlUrl="https://audioboom.com/channel/thepoliticsguys"/>
+            <outline type="rss" text="bloomberg - Google News" title="bloomberg - Google News" xmlUrl="http://news.google.com/news?hl=en&amp;gl=us&amp;q=bloomberg&amp;um=1&amp;ie=UTF-8&amp;output=rss" htmlUrl="https://news.google.com/news/search/section/q/bloomberg/bloomberg?ned=us&amp;hl=en&amp;gl=US"/>
+            <outline type="rss" text="Robert Borosage" title="Robert Borosage" xmlUrl="http://institute.ourfuture.org/featured_blogs/*/feed" htmlUrl="https://ourfuture.org"/>
+            <outline type="rss" text="ataxingmatter" title="ataxingmatter" xmlUrl="http://feeds2.feedburner.com/blogs/qORN" htmlUrl="http://ataxingmatter.blogs.com/tax/"/>
+            <outline type="rss" text="Digitopoly" title="Digitopoly" xmlUrl="http://feeds.feedburner.com/digitopoly" htmlUrl="https://digitopoly.org"/>
+            <outline type="rss" text="SolidarityEconomy.net" title="SolidarityEconomy.net" xmlUrl="http://www.solidarityeconomy.net/feed/" htmlUrl="http://www.solidarityeconomy.net"/>
+            <outline type="rss" text="The Irish Economy" title="The Irish Economy" xmlUrl="http://www.irisheconomy.ie/index.php/feed/" htmlUrl="http://www.irisheconomy.ie"/>
+            <outline type="rss" text="Stumbling and Mumbling" title="Stumbling and Mumbling" xmlUrl="http://stumblingandmumbling.typepad.com/stumbling_and_mumbling/atom.xml" htmlUrl="http://stumblingandmumbling.typepad.com/stumbling_and_mumbling/"/>
+            <outline type="rss" text="Robert Reich" title="Robert Reich" xmlUrl="http://robertreich.org/rss" htmlUrl="http://robertreich.org/"/>
+            <outline type="rss" text="Paul Krugman - Op-Ed Columnist - New York Times Blog" title="Paul Krugman - Op-Ed Columnist - New York Times Blog" xmlUrl="http://krugman.blogs.nytimes.com/rss2.xml" htmlUrl="https://krugman.blogs.nytimes.com"/>
+            <outline type="rss" text="MRZine.org" title="MRZine.org" xmlUrl="http://www.monthlyreview.org/mrzine/MR.xml" htmlUrl="http://mrzine.org"/>
+        </outline>
+        <outline text="labor" title="labor">
+            <outline type="rss" text="Department of Labor Web Sites" title="Department of Labor Web Sites" xmlUrl="http://employeeissues.com/blog/feed/" htmlUrl="http://employeeissues.com/blog"/>
+            <outline type="rss" text="Talking Union" title="Talking Union" xmlUrl="http://talkingunion.wordpress.com/feed/" htmlUrl="https://talkingunion.wordpress.com"/>
+            <outline type="rss" text="Reading Marx's Capital with David Harvey" title="Reading Marx's Capital with David Harvey" xmlUrl="http://davidharvey.org/feed/" htmlUrl="http://davidharvey.org"/>
+            <outline type="rss" text="Cincinnati Union Coop Initiative" title="Cincinnati Union Coop Initiative" xmlUrl="http://www.cincinnatiunioncoop.org/feed/" htmlUrl="http://www.cincinnatiunioncoop.org"/>
+            <outline type="rss" text="Department of Labor (DOL), on USA.gov" title="Department of Labor (DOL), on USA.gov" xmlUrl="http://www.usa.gov/rss/updates.xml" htmlUrl="http://www.usa.gov/rss/updates.xml"/>
+            <outline type="rss" text="AFL-CIO NOW BLOG" title="AFL-CIO NOW BLOG" xmlUrl="http://blog.aflcio.org/wp-rss2.php" htmlUrl="https://aflcio.org/rss/blog"/>
+            <outline type="rss" text="LabourStart" title="LabourStart" xmlUrl="http://www.labourstart.org/rss/labourstart.xml" htmlUrl="http://www.labourstart.org/"/>
+            <outline type="rss" text="Coal Tattoo" title="Coal Tattoo" xmlUrl="http://blogs.wvgazette.com/coaltattoo/feed/" htmlUrl="http://blogs.wvgazette.com/coaltattoo"/>
+        </outline>
+        <outline text="radio" title="radio">
+            <outline type="rss" text="Science Magazine Podcast" title="Science Magazine Podcast" xmlUrl="http://www.sciencemag.org/rss/podcast.xml" htmlUrl="http://www.sciencemag.org/"/>
+            <outline type="rss" text="Radio Drama Revival" title="Radio Drama Revival" xmlUrl="http://feeds.feedburner.com/RadioDramaRevival" htmlUrl="http://www.radiodramarevival.com/"/>
+            <outline type="rss" text="HTB: Sunday Services" title="HTB: Sunday Services" xmlUrl="http://feeds.feedburner.com/htbsundaytalks" htmlUrl="https://www.htb.org/"/>
+            <outline type="rss" text="Radiolab" title="Radiolab" xmlUrl="http://feeds.wnyc.org/radiolab" htmlUrl="http://www.radiolab.org/series/podcasts/"/>
+            <outline type="rss" text="The Partially Examined Life Philosophy Podcast" title="The Partially Examined Life Philosophy Podcast" xmlUrl="http://feeds.feedburner.com/partiallyexaminedlife/blog" htmlUrl="http://partiallyexaminedlife.com"/>
+            <outline type="rss" text="Belabored by Dissent Magazine" title="Belabored by Dissent Magazine" xmlUrl="http://www.dissentmagazine.org/feed/belabored" htmlUrl="http://www.dissentmagazine.org/"/>
+            <outline type="rss" text="London School of Economics" title="London School of Economics" xmlUrl="http://www.lse.ac.uk/assets/richmedia/webFeeds/publicLecturesAndEvents_iTunesStore.xml" htmlUrl="http://www.lse.ac.uk/newsAndMedia/videoAndAudio/channels/publicLecturesAndEvents/"/>
+            <outline type="rss" text="Scientific American Podcast" title="Scientific American Podcast" xmlUrl="http://rss.sciam.com/sciam/60secsciencepodcast" htmlUrl="http://www.scientificamerican.com"/>
+            <outline type="rss" text="Partially Derivative" title="Partially Derivative" xmlUrl="http://feeds.feedburner.com/PartiallyDerivative" htmlUrl="http://partiallyderivative.com"/>
+            <outline type="rss" text="Jim Hightower's Radio Lowdown" title="Jim Hightower's Radio Lowdown" xmlUrl="http://feeds.feedburner.com/jimhightower" htmlUrl="https://hightowerlowdown.org/"/>
+            <outline type="rss" text="Best of the Left" title="Best of the Left" xmlUrl="http://hippiesympathizer.libsyn.com/mp3.rss" htmlUrl="http://www.BestOfTheLeft.com"/>
+            <outline type="rss" text="Economic Update" title="Economic Update" xmlUrl="http://economicupdate.podbean.com/feed/" htmlUrl="http://economicupdate.podbean.com"/>
+            <outline type="rss" text="FT Alphachat" title="FT Alphachat" xmlUrl="http://rss.acast.com/ft-alphachat" htmlUrl="https://ftalphaville.ft.com/series/Alphachat"/>
+        </outline>
+        <outline type="rss" text="Dan Alpert's Two Cents" title="Dan Alpert's Two Cents" xmlUrl="http://www.economonitor.com/danalperts2cents/feed/" htmlUrl="http://www.economonitor.com/danalperts2cents"/>
+    </body>
+</opml>
